@@ -9528,6 +9528,12 @@ module.exports = React.createClass({
           "h1",
           { className: "hello" },
           "Hello React"
+        ),
+        React.createElement(
+          "h2",
+          null,
+          "TWO plus TWO equals ",
+          2 + 2
         )
       )
     );
