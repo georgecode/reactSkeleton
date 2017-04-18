@@ -17,7 +17,7 @@ var HTMLWebpackPluginConfig = new HTMLWebpackPlugin({
 module.exports = {
   //entry: this is the entry point AKA the file
   //webpack will transform
-  entry: __dirname + '/app/index.js'
+  entry: __dirname + '/app/index.js',
 
   //module: this is where you tell webpack what to
   //do with the code, each loader is a transformation
