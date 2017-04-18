@@ -1,9 +1,6 @@
 # React Skeleton
 ### A boiler plate template for React.js projects
-
-
-# Steps to get up and running
-
+</br>
 
 ## Clone it
 $ git clone https://github.com/georgecode/reactSkeleton.git
@@ -21,7 +18,7 @@ $ git add .
 $ git commit -m "first commit"
 
 
-## Push it to git hub
+## Push it to github
 First make a new repo on github than
 
 $ git remote add origin https://github.com/gitHubName/githubRepositoryName.git
